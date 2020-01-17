@@ -1,0 +1,34 @@
+img.avatar {
+    max-width: 10%;
+}
+
+@media only screen and (min-width: 1000px) {
+    img.edit {
+        width: 10%;
+        margin: 0px 0px 0px 270px;
+    }
+}
+
+img.logo {
+    max-width: 20%;
+    margin: 0px 0px 60px 850px;
+    padding-top: 0%;
+}
+
+header {
+    background-image: url("../imagine/background.jpg");
+    background-repeat: repeat-x;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 50em;
+}
+
+h2 {
+    color: white;
+}
+
+nav a {
+    color: white;
+}
