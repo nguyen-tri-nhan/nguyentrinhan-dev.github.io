@@ -1,0 +1,43 @@
+img.avatar {
+    max-width: 10%;
+}
+
+@media only screen and (min-width: 1000px) {
+    img.edit {
+        width: 10%;
+        margin: 0px 0px 0px 270px;
+    }
+}
+
+img.logo {
+    max-width: 10%;
+    margin: 0px 0px 60px 1300px;
+    padding-top: 0%;
+}
+
+header {
+    opacity: 0.8;
+    background-image: url("../imagine/background.jpg");
+    background-repeat: repeat-x;
+}
+
+nav a {
+    text-align: center;
+    display: inline-block;
+    margin: 2% 5.5%;
+    height: 35px;
+    width: 175px;
+    text-decoration: none;
+    padding-top: 1.5%;
+    border-radius: 5%;
+    color: #ffffff;
+    background: rgba(255, 143, 143, 0.6);
+    font-size: 110%;
+}
+
+div.name {
+    border: tomato;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: #000000;
+}
