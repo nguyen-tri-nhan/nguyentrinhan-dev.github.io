@@ -1359,3 +1359,7 @@ footer .social-links li:first-child {
 #go-top a:hover {
     background-color: #0F9095;
 }
+
+td a img.centificate :hover {
+    size: 250%;
+}
