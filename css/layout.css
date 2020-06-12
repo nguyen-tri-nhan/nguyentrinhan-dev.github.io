@@ -1363,3 +1363,9 @@ footer .social-links li:first-child {
 td a img.centificate :hover {
     size: 250%;
 }
+
+table,
+th,
+td {
+    border: 10px solid white;
+}
